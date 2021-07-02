@@ -59,6 +59,10 @@ public class test {
         System.out.println(test.lengthOfLIS(nums));
         System.out.println(test.lengthOfLIS(nums));
         System.out.println(test.lengthOfLIS(nums));
+        System.out.println(test.lengthOfLIS(nums));
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println(test.lengthOfLIS(nums));
     }
 
 }
