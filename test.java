@@ -57,6 +57,8 @@ public class test {
         int[] nums = {10,9,2,5,3,7,101,18};   //4:0123
 //        int kthLargest = test.findKthLargest(nums, 1);
         System.out.println(test.lengthOfLIS(nums));
+        System.out.println(test.lengthOfLIS(nums));
+        System.out.println(test.lengthOfLIS(nums));
     }
 
 }
